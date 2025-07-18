@@ -19,7 +19,7 @@ This analysis provides actionable insights that enable the business to tailor ma
 
 The final analysis is presented in an interactive Power BI dashboard, designed to provide key stakeholders with an at-a-glance understanding of the customer base.
 
-![E - Commerce Customer Segmentation Dashboard.png](https://github.com/your-username/your-repository-name/blob/main/E%20-%20Commerce%20Customer%20Segmentation%20Dashboard.png?raw=true)
+![E - Commerce Customer Segmentation Dashboard.png](https://github.com/LakshitaPagaria/E-commerce-Customer-Segmentation-using-RFM-Analysis/blob/main/E%20-%20Commerce%20Customer%20Segmentation%20Dashboard.png)
 
 ---
 
